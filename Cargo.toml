@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["shach <shacham6@gmail.com>"]
 
 [dependencies]
+log = "*"
+simple_logger = "*"
